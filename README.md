@@ -34,7 +34,7 @@ $ python setup.py install
 ```bash
 $ git clone https://github.com/ethereum/pyethereum.git
 $ cd pyethereum
-$ git checlout state_revamp
+$ git checkout state_revamp
 $ git submodule update --init --recursive
 $ python setup.py develop
 ```
